@@ -83,8 +83,8 @@ export const siteContent = {
     errorMessage: "Something went wrong. Please try later or email us directly at contact@papreplab.com",
     services: [
       { id: 'counseling', label: 'Counseling' },
-      { id: 'essay', label: 'Essay help' },
-      { id: 'mock', label: 'Mock interview prep' },
+      { id: 'essay', label: 'Essay Review' },
+      { id: 'mock', label: 'Mock interview' },
       { id: 'bundle', label: 'Bundle' },
       { id: 'notSure', label: 'Not sure' },
     ],
